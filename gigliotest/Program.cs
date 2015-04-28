@@ -10,8 +10,10 @@ namespace gigliotest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CIA");
+            Console.WriteLine("Ciao");
+            Console.WriteLine("Buongiorno");
             Console.ReadLine();
+            
         }
     }
 }
